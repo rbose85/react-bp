@@ -1,0 +1,20 @@
+{
+  "name": "react-bp",
+  "version": "1.0.0",
+  "description": "simple react boilerplate",
+  "main": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbose85/react-bp.git"
+  },
+  "keywords": [],
+  "author": "Rajiv Bose <rbose85@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbose85/react-bp/issues"
+  }
+}
