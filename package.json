@@ -12,9 +12,14 @@
     "url": "git+https://github.com/rbose85/react-bp.git"
   },
   "keywords": [],
+  "engines": {
+    "node": ">=7.1.0"
+  },
   "author": "Rajiv Bose <rbose85@users.noreply.github.com>",
+  "contributors": [],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rbose85/react-bp/issues"
-  }
+  },
+  "homepage": "https://github.com/rbose85/react-bp#readme"
 }
