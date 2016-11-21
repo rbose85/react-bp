@@ -1,0 +1,24 @@
+{
+  "env": {
+    "browser": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "globalReturn": false,
+      "impliedStrict": true,
+      "jsx": true,
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "plugins": [
+    "react",
+    "jsx-a11y"
+  ],
+  "extends": [
+    "eslint:all",
+    "plugin:react/all",
+    "plugin:jsx-a11y/recommended"
+  ]
+}

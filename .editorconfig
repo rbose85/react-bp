@@ -16,6 +16,6 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 
 # Matches the exact files ...
-[{src/**.{js,css,html},config/**.js,package.json}]
+[{src/**.{js,css,html},config/**.js,**.json}]
 indent_size = 2
 max_line_length = 80
