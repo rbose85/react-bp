@@ -24,6 +24,10 @@
     "url": "https://github.com/rbose85/react-bp/issues"
   },
   "homepage": "https://github.com/rbose85/react-bp#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
   "devDependencies": {
     "html-webpack-plugin": "^2.24.1",
     "html-webpack-template": "^5.4.1",
